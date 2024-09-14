@@ -284,6 +284,7 @@ address .link:hover {
 
 .footer-logo-link {
   display: inline-block;
+  margin-bottom: 16px;
   
 }
 .container-footer {
