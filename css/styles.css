@@ -287,6 +287,16 @@ address .link:hover {
   margin-bottom: 16px;
   
 }
+.footer-logo{
+  font-family:"Ralewey" sans-serif;
+  text-decoration: none;
+  font-weight:700px;
+  font-size:18px;
+  line-height:1.3125em;
+  letter-spacing:3%;
+  display: inline-block;
+  margin-bottom: 16px;
+}
 .container-footer {
   margin: 0 auto;
   flex-direction: column;
