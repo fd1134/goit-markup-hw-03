@@ -42,6 +42,7 @@ a {
   display: flex;
   justify-content: space-between;
   padding: 0 15px;
+  /* */
 }
 header {
   border-bottom: 1px solid #e7e9fc;
@@ -274,31 +275,35 @@ address .link:hover {
 }
 
 .footer {
-  background-color: #2E2F42;
-  color:#ffffff;
+  background-color: #2e2f42;
+  color: #ffffff;
   height: 312px;
   padding: 100px 0;
-  }
-.footer-logo{
-  font-family:"Ralewey" sans-serif;
+}
+.container-footer {
+  margin: 0 auto;
+  flex-direction: column;
+}
+.footer-logo {
+  font-family: "Ralewey" sans-serif;
   text-decoration: none;
-  font-weight:700px;
-  font-size:18px;
-  line-height:1.3125em;
-  letter-spacing:3%;
+  font-weight: 700px;
+  font-size: 18px;
+  line-height: 1.3125em;
+  letter-spacing: 3%;
   display: inline-block;
   margin-bottom: 16px;
 }
-.web{
-  color: #4D5AE5;
+.web {
+  color: #4d5ae5;
 }
-.studio{
-  color:#F4F4FD;
+.studio {
+  color: #f4f4fd;
 }
-.footer-text{
-  font-weight:400;
-  font-size:16px;
-  line-height:1.5em;
+.footer-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5em;
   letter-spacing: 2%;
   max-width: 264px;
 }
