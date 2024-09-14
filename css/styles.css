@@ -274,32 +274,31 @@ address .link:hover {
 }
 
 .footer {
+  background-color: #2E2F42;
+  color:#ffffff;
+  height: 312px;
   padding: 100px 0;
-  background-color: #2e2f42;
-}
-
-.container-footer {
-  margin: 0 auto;
-  flex-direction: column;
-}
-
-.footer-logo {
-  font-size: 18px;
-  line-height: 1.3125em;
+  }
+.footer-logo{
+  font-family:"Ralewey" sans-serif;
+  text-decoration: none;
+  font-weight:700px;
+  font-size:18px;
+  line-height:1.3125em;
+  letter-spacing:3%;
   display: inline-block;
   margin-bottom: 16px;
 }
-footer .logo-text2 {
-  color: #f4f4fd;
-  font-family: "Raleway", system-ui;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.166;
+.web{
+  color: #4D5AE5;
 }
-footer .text {
+.studio{
+  color:#F4F4FD;
+}
+.footer-text{
+  font-weight:400;
+  font-size:16px;
+  line-height:1.5em;
+  letter-spacing: 2%;
   max-width: 264px;
-  height: 72px;
-  color: #f4f4fd;
-  font-size: 16px;
-  line-height: 1.5;
 }
