@@ -276,13 +276,11 @@ address .link:hover {
 .footer {
   padding: 100px 0;
   background-color: #2e2f42;
-  height: 312px;
 }
 
 .container-footer {
   margin: 0 auto;
   flex-direction: column;
-  gap: 20px;
 }
 
 .footer-logo {
