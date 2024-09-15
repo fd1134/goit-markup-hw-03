@@ -72,8 +72,6 @@ a {
 .page-navigation-list {
   display: flex;
   gap: 40px;
-}
-.item-navigation {
   padding: 24px 0;
 }
 .item-navigation .link {
