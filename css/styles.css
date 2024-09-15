@@ -40,7 +40,6 @@ a {
   width: 1158px;
   display: flex;
   justify-content: space-between;
-  padding: 0 15px;
   margin: 0 auto;
 }
 .page-header {
@@ -72,7 +71,6 @@ a {
 .page-navigation-list {
   display: flex;
   gap: 40px;
-  padding: 24px 0;
 }
 .item-navigation{ 
    padding: 24px 0;
