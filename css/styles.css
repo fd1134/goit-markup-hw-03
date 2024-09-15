@@ -41,6 +41,7 @@ a {
   display: flex;
   justify-content: space-between;
   margin: 0 auto;
+  padding: 0 15px
 }
 .page-header {
   border-bottom: 1px solid #e7e9fc;
