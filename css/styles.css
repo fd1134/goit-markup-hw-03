@@ -34,6 +34,7 @@ a {
 
 .section {
   padding: 188px 0;
+  height: ;
 }
 
 .container {
@@ -46,6 +47,7 @@ a {
 }
 header {
   border-bottom: 1px solid #e7e9fc;
+  margin: 15px auto;
 }
 .page-header-container {
   justify-content: flex-start;
@@ -112,7 +114,6 @@ address .link:hover {
 }
 .page-hero {
   background-color: #2e2f42;
-  height: 600px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -124,7 +125,6 @@ address .link:hover {
 }
 .page-title {
   max-width: 496px;
-  height: 120px;
   color: #ffffff;
   font-weight: 700;
   font-size: 56px;
@@ -284,7 +284,9 @@ address .link:hover {
   background-color: #2e2f42;
   padding: 100px 0;
 }
-
+.footer-container{
+  flex-direction: column;
+}
 .logo-part-foot {
   color: #404bbf;
   font-family: "Raleway", sans-serif;
