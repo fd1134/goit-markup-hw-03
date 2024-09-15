@@ -74,6 +74,9 @@ a {
   gap: 40px;
   padding: 24px 0;
 }
+.item-navigation{ 
+   padding: 24px 0;
+}
 .item-navigation .link {
   color: #2e2f42;
   font-weight: 500;
